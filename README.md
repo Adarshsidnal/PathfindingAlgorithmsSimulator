@@ -2,6 +2,8 @@
 
 Welcome to Pathfinder Simulator! This application was built out of a fascination with pathfinding algorithms and a desire to visualize them in action. Enjoy exploring the world of pathfinding algorithms with this interactive tool.
 
+**[Try it out here! (Use Google Chrome)](https://adarshsidnal.github.io/PathfindingAlgorithmsSimulator)**
+
 ## Table of Contents
 
 - [Meet the Algorithms](#meet-the-algorithms)
